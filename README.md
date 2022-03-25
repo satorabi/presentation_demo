@@ -1,4 +1,4 @@
-# presentation_demo
+# Presentation_Demo
 
 In this project, I present a short tutorial for data analysis using Pandas DataFrame.
 
